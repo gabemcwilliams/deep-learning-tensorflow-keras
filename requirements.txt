@@ -128,8 +128,10 @@ streamlit             # Lightweight dashboards
 # -----------------------------------------------------------------------------
 beautifulsoup4        # HTML parsing
 scrapy                # Crawler framework
+parsel                # XPath/CSS selector engine used by Scrapy
 selenium              # Headless browser automation for dynamic sites
 2captcha-python       # Captcha solving (MFA bypass)
+
 
 # -----------------------------------------------------------------------------
 # Image Processing and OCR
